@@ -11,7 +11,7 @@ I'm a **smart contract security researcher** specializing in **Solana audits** �
 
 - 🐞 Found **20+ High/Medium** severity bugs
 - 🥈 Placed **#2/248** in [Inclusive Competition](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0)
-- 💯 **Reputation score of 100** on [Cantina](https://cantina.xyz)
+- 💯 **Reputation score of 100** on [https://cantina.xyz→](https://cantina.xyz/u/chitresh)
 
 ---
 
