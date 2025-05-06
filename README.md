@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-**Cook** [Arjuna Sec](https://x.com/arjuna_sec)  
+**Cooking** [Arjuna Sec](https://x.com/arjuna_sec)  
 I'm a **smart contract security researcher** specializing in **Solana audits** 🔍  
 
 ---
