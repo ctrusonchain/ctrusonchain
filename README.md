@@ -9,7 +9,7 @@ I'm a **smart contract security researcher** specializing in **Solana audits** �
 
 ## ✨ Highlights
 
-- 🐞 Found **25+ High/Medium** severity bugs
+- 🐞 Found **30+ High/Medium** severity bugs
 - 🥈 Placed **#2/248** in [Inclusive Competition](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0)
 - 💯 **Reputation score of 100** on [cantina→](https://cantina.xyz/u/chitresh)
 
@@ -25,3 +25,9 @@ I'm a **smart contract security researcher** specializing in **Solana audits** �
 | [Pump.Science](https://code4rena.com/audits/2025-01-pump-science) | Code4rena | **#13** | **1M** | Solana / Rust |
 
 ---
+## 🔐 Private Audits
+
+|  ID | 📛 Protocol     | 🌐 Ecosystem / Language | 🧠 Description         | 🏢 Provider   | 🐞 Findings | 📄 Report                                                                 |
+|------|------------------|--------------------------|------------------------|--------------|-------------|--------------------------------------------------------------------------|
+| 01   | [PnP Exchange](https://pnp.exchange)      | Solana / Rust            | Prediction market   | Solo | **3H, 3M, 3L**      | soon |
+
