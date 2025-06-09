@@ -38,4 +38,5 @@ I'm a **smart contract security researcher** specializing in **Solana audits** ð
 ![Darpit's testimonial](/testimonials/testimony1.png)
 
 **[Amar](https://x.com/amarfares_) (Security Researcher)**
-![Amar's testimonial](/testimonials/testimony2.png)
+**[Nirlin](https://x.com/0xnirlin) (Security Researcher)**
+![testimonial](/testimonials/testimony2.png)
