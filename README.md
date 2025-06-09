@@ -29,7 +29,7 @@ I'm a **smart contract security researcher** specializing in **Solana audits** �
 
 |  ID | 📛 Protocol     | 🌐 Ecosystem / Language | 🧠 Description         | 🏢 Provider   | 🐞 Findings | 📄 Report                                                                 |
 |------|------------------|--------------------------|------------------------|--------------|-------------|--------------------------------------------------------------------------|
-| 01   | [PnP Exchange](https://pnp.exchange)      | Solana / Rust            | Prediction market   | Solo | **3H, 3M, 3L**      | [🔗 Link](https://github.com/ctrusonchain/audit-reports/blob/main/report.md) |
+| 01   | [PnP Exchange](https://pnp.exchange)      | Solana / Rust            | Prediction market   | Solo | **3H, 3M, 3L**      | [🔗 Link](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/pnpreport.md) |
 ---
 
 ## 🗣️Testimonials
