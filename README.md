@@ -30,4 +30,12 @@ I'm a **smart contract security researcher** specializing in **Solana audits** �
 |  ID | 📛 Protocol     | 🌐 Ecosystem / Language | 🧠 Description         | 🏢 Provider   | 🐞 Findings | 📄 Report                                                                 |
 |------|------------------|--------------------------|------------------------|--------------|-------------|--------------------------------------------------------------------------|
 | 01   | [PnP Exchange](https://pnp.exchange)      | Solana / Rust            | Prediction market   | Solo | **3H, 3M, 3L**      | [🔗 Link](https://github.com/ctrusonchain/audit-reports/blob/main/report.md) |
+---
 
+## 🗣️Testimonials
+
+**[Darpit](https://x.com/proxima424) (Founder of Pnp exchange):**
+![Darpit's testimonial](/testimonials/testimony1.png)
+
+**[Amar](https://x.com/amarfares_) (Security Researcher)**
+![Amar's testimonial](/testimonials/testimony2.png)
