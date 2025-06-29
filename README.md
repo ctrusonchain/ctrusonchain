@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 👨‍💻 About Me 
-I'm a **smart contract security researcher** specializing in **Solana audits** 🔍  
+I'm an Independent **Smart Contract Security Researcher** specializing in **Solana audits** 🔍  
 
 ---
 
