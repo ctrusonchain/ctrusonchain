@@ -28,7 +28,7 @@ I'm an independent **Smart Contract Security Researcher** specializing in **Sola
 
 |  ID | 📛 Protocol     | 🐞 Findings           | 🧠 Description     | 🌐 Ecosystem / Language | 🏢 Provider       | 📄 Report                                                                 |
 |------|----------------|----------------------|-------------------|------------------------|------------------|--------------------------------------------------------------------------|
-| 01   | [PnP Exchange](https://pnp.exchange) | **3H, 3M, 3L**     | Prediction market      | Solana / Rust      | Solo             | [🔗 Link](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/pnpreport.md) |
+| 01   | [PnP Exchange](https://pnp.exchange) | **1C, 2H, 3M, 3L**     | Prediction market      | Solana / Rust      | Solo             | [🔗 Link](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/pnpreport.md) |
 | 02   | [Pyro Fun](https://pyro.fun/)        | **3H, 1L**         | Token launcher         | Solana / Rust      | QuillAudits       | *Not public*                                                                   |
 | 03   | [BTR.fi](https://btr.fi/)            | **3C, 2H, 1M, 10L** | Vault / Staking        | Solana / Rust      | PashovAuditGroup  | *Not public*                                                             |
 
