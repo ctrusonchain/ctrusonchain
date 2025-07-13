@@ -34,12 +34,13 @@ I'm an independent **Smart Contract Security Researcher** specializing in **Sola
 
 
 ## 🗣️ Testimonials
-**[Pashov](https://x.com/pashovkrum) (Founder @PashovAuditGroup):**
+**[Pashov](https://x.com/pashovkrum) ( Founder [@PashovAuditGroup](https://x.com/PashovAuditGrp) )**
 ![Pashov's Testimonial](testimonials/testimony3.png)
 
-**[Darpit](https://x.com/proxima424) (Founder @Pnp exchange):**
+**[Amar](https://x.com/amarfares_) ( Security Researcher )**
+**[Nirlin](https://x.com/0xnirlin) ( Security Researcher [@AdevarLabs](https://x.com/AdevarLabs) )**
+![testimonial](/testimonials/testimony2.png)
+
+**[Darpit](https://x.com/proxima424) ( Founder [@Pnp exchange](https://x.com/predictandpump) )**
 ![Darpit's testimonial](/testimonials/testimony1.png)
 
-**[Amar](https://x.com/amarfares_) (Security Researcher )**
-**[Nirlin](https://x.com/0xnirlin) (Security Researcher @AdevarLabs)**
-![testimonial](/testimonials/testimony2.png)
