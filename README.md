@@ -26,8 +26,6 @@ I'm an independent **Smart Contract Security Researcher** specializing in **Sola
 
 ## 🔐 Private Audits
 
-## 🔐 Private Audits
-
 |  ID | 📛 Protocol     | 🐞 Findings           | 🧠 Description     | 🌐 Ecosystem / Language | 🏢 Provider       | 📄 Report                                                                 |
 |------|----------------|----------------------|-------------------|------------------------|------------------|--------------------------------------------------------------------------|
 | 01   | [PnP Exchange](https://pnp.exchange) | **1C, 2H, 3M, 3L**     | Prediction market      | Solana / Rust      | Solo             | [🔗 Link](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/pnpreport.md) |
@@ -35,7 +33,7 @@ I'm an independent **Smart Contract Security Researcher** specializing in **Sola
 | 03   | [BTR.fi](https://btr.fi/)            | **3C, 2H, 1M, 10L** | Vault / Staking        | Solana / Rust      | PashovAuditGroup  | *Not public*                                                               |
 | 04   | *(Private)*                          | **Ongoing**        | Token Transfer         | Solana / Rust      | QuillAudits       | *Not public*                                                               |
                                   
-
+---
 
 ## 🗣️ Testimonials
 **[Pashov](https://x.com/pashovkrum) ( Founder [@PashovAuditGroup](https://x.com/PashovAuditGrp) )**
