@@ -7,7 +7,7 @@ I'm an independent **Smart Contract Security Researcher** specializing in **Sola
 
 ## ✨ Highlights
 
-- 🐞 Found **40+ High/Medium** severity bugs
+- 🐞 Found **55+ High/Medium** severity bugs
 - 🥈 Placed **#2/248** in [Inclusive Competition](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0)
 - 💯 **Reputation score of 100** on [cantina→](https://cantina.xyz/u/chitresh)
 
@@ -31,8 +31,8 @@ I'm an independent **Smart Contract Security Researcher** specializing in **Sola
 | 01   | [PnP Exchange](https://pnp.exchange) | **1C, 2H, 3M, 3L** | Prediction market      | Solana / Rust      | Solo             | [🔗 Link](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/pnpreport.md) |
 | 02   | [Pyro Fun](https://pyro.fun/)        | **1H, 2M, 1L**         | Token launcher         | Solana / Rust      | QuillAudits       | *Not public*                                                               |
 | 03   | [BTR.fi](https://btr.fi/)            | **5C, 2H, 1M, 8L** | Vault / Staking        | Solana / Rust      | PashovAuditGroup  | *Not public*                                                               |
-| 04   | [Zync Protocol](https://zynklabs.xyz/) | **2M, 1L**        | Token transfer                | Solana / Rust      | QuillAudits           | *Not public*                                                               |
-| 05   | **Ongoing**                | **Ongoing**        | Privacy engine                | Solana / Rust      | QuillAudits          | *Not public*                                                               |
+| 04   | [Zync Protocol](https://zynklabs.xyz/) | **3M, 2L**        | Token transfer                | Solana / Rust      | QuillAudits           | *Not public*                                                               |
+| 05   | **Ongoing**                | **3C, 4H, 7M, 2L (Ongoing)**        | Privacy engine                | Solana / Rust      | QuillAudits          | *Not public*                                                               |
 
 ---
 
