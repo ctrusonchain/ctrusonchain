@@ -32,7 +32,7 @@ I'm an independent **Smart Contract Security Researcher** specializing in **Sola
 | 02   | [Pyro Fun](https://pyro.fun/)        | **1H, 2M, 1L**         | Token launcher         | Solana / Rust      | QuillAudits       | *Not public*                                                               |
 | 03   | [BTR.fi](https://btr.fi/)            | **5C, 2H, 1M, 8L** | Vault / Staking        | Solana / Rust      | PashovAuditGroup  | *Not public*                                                               |
 | 04   | [Zync Protocol](https://zynklabs.xyz/) | **3M, 2L**        | Token transfer                | Solana / Rust      | QuillAudits           | *Not public*                                                               |
-| 05   | **Ongoing**                | **3C, 4H, 7M, 2L (Ongoing)**        | Privacy engine                | Solana / Rust      | QuillAudits          | *Not public*                                                               |
+| 05   | **Undisclossed**                | **3C, 4H, 7M, 2L**        | Privacy engine                | Solana / Rust      | QuillAudits          | *Not public*                                                               |
 
 ---
 
