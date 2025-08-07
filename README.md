@@ -9,6 +9,7 @@ I'm an independent **Smart Contract Security Researcher** specializing in **Sola
 
 - 🐞 Found **55+ High/Medium** severity bugs
 - 🥈 Placed **#2/248** in [Inclusive Competition](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0)
+- 📈 **4 top10** placements in competitive audits
 - 💯 **Reputation score of 100** on [cantina→](https://cantina.xyz/u/chitresh)
 
 ---
