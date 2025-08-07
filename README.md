@@ -19,8 +19,8 @@ I'm an independent **Smart Contract Security Researcher** specializing in **Sola
 |------|-----------|-------------|----------------|------------|------------------------|
 | 01   | [Inclusive Finance](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) | **15H, 2M** | Vault | **#2/248**  | Solana / Rust |
 | 02   | [Reserve Protocol](https://cantina.xyz/competitions/8b94becd-54e7-41cd-88e6-caae7becc76a) | **1H, 1M** | Basket | **#5/237** | Solana / Rust |
-| 03   | [Soon SVM](https://cantina.xyz/competitions/08c2b0b4-8449-4136-82a2-7074ccdfffac) | **3M** | Infra/Bridge | **#10/449** | Solana / Rust |
-| 04   | [Pump.Science](https://code4rena.com/audits/2025-01-pump-science) | **1M** | Amm | **#9** | Solana / Rust |
+| 03   | [Pump.Science](https://code4rena.com/audits/2025-01-pump-science) | **1M** | Amm | **#9** | Solana / Rust | 
+| 04   | [Soon SVM](https://cantina.xyz/competitions/08c2b0b4-8449-4136-82a2-7074ccdfffac) | **3M** | Infra/Bridge | **#10/449** | Solana / Rust |
 
 ---
 
