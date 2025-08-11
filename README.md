@@ -21,7 +21,7 @@ I'm an independent **Smart Contract Security Researcher** specializing in **Sola
 | 01   | [Inclusive Finance](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) | **15H, 2M** | Vault | **#2/248**  | Solana / Rust |
 | 02   | [Reserve Protocol](https://cantina.xyz/competitions/8b94becd-54e7-41cd-88e6-caae7becc76a) | **1H, 1M** | Basket | **#5/237** | Solana / Rust |
 | 03   | [Pump.Science](https://code4rena.com/audits/2025-01-pump-science) | **1M, 1L** | Amm | **#9** | Solana / Rust | 
-| 04   | [Soon SVM](https://cantina.xyz/competitions/08c2b0b4-8449-4136-82a2-7074ccdfffac) | **3M** | Infra/Bridge | **#10/449** | Solana / Rust |
+| 04   | [Soon SVM](https://cantina.xyz/competitions/08c2b0b4-8449-4136-82a2-7074ccdfffac) | **3M** | Infra/Bridge | **#7/449** | Solana / Rust |
 
 ---
 
@@ -33,7 +33,7 @@ I'm an independent **Smart Contract Security Researcher** specializing in **Sola
 | 02   | [Pyro Fun](https://pyro.fun/)        | **1H, 2M, 1L**         | Token launcher         | Solana / Rust      | QuillAudits       | *Not public*                                                               |
 | 03   | [BTR.fi](https://btr.fi/)            | **5C, 2H, 1M, 8L** | Vault / Staking        | Solana / Rust      | PashovAuditGroup  | *Not public*                                                               |
 | 04   | [Zync Protocol](https://zynklabs.xyz/) | **3M, 2L**        | Token transfer                | Solana / Rust      | QuillAudits           | *Not public*                                                               |
-| 05   | **Undisclossed**                | **3C, 4H, 7M, 2L**        | Privacy engine                | Solana / Rust      | QuillAudits          | *Not public*                                                               |
+| 05   | **Undisclossed**                | **2C, 4H, 8M, 2L**        | Privacy engine                | Solana / Rust      | QuillAudits          | *Not public*                                                               |
 
 ---
 
