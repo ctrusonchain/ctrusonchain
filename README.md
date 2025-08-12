@@ -1,5 +1,5 @@
 ## About Me 
-I'm **Smart Contract Security Researcher** specializing in **Rust/Solana audits**, working with [PashovAuditGroup](https://x.com/PashovAuditGrp), [QuillAudits](https://x.com/QuillAudits_AI), [AdevarLabs](https://x.com/AdevarLabs)
+I'm **Smart Contract Security Researcher** specializing in **Rust/Solana audits**, working with [PashovAuditGroup](https://x.com/PashovAuditGrp), [QuillAudits](https://x.com/QuillAudits_AI) & [AdevarLabs](https://x.com/AdevarLabs)
 
 ---
 
