@@ -30,8 +30,8 @@ I'm **Smart Contract Security Researcher** specializing in **Rust/Solana audits*
 | 2025.06   | [Pyro Fun](https://pyro.fun/)        | **1H, 2M, 1L**         | Token launcher         | Solana / Rust      | QuillAudits       | *Not public*                                                               |
 | 2025.07   | [BTR.fi](https://btr.fi/)            | **5C, 2H, 1M, 8L** | Vault / Staking        | Solana / Rust      | PashovAuditGroup  | *Not public*                                                               |
 | 2025.07  | [Zync Protocol](https://zynklabs.xyz/) | **3M, 2L**        | Token transfer                | Solana / Rust      | QuillAudits           | *Not public*                                                               |
-| 2025.08   | **Undisclossed**                | **2C, 4H, 8M, 2L**        | Privacy engine                | Solana / Rust      | QuillAudits          | *Not public*                                                               |
-| 2025.08   | **Undisclossed**                | soon      | soon                | Solana / Rust      | AdevarLabs         | *Not public*                                                               |
+| 2025.08   | **Undisclosed**                | **2C, 4H, 8M, 2L**        | Privacy engine                | Solana / Rust      | QuillAudits          | *Not public*                                                               |
+| 2025.08   | **Undisclosed**                | -     | -               | Solana / Rust      | AdevarLabs         | *Not public*                                                               |
 
 ---
 
