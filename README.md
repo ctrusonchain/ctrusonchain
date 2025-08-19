@@ -1,13 +1,14 @@
 ## About Me 
-I'm **Smart Contract Security Researcher** specializing in **Rust/Solana audits**, working with [PashovAuditGroup](https://x.com/PashovAuditGrp), [QuillAudits](https://x.com/QuillAudits_AI) & [AdevarLabs](https://x.com/AdevarLabs)
+I'm **Smart Contract Security Researcher** specializing in **Rust/Solana audits**.
 
 ---
 
 ## Highlights
 
 -  **Reputation score of 100** on [cantina→](https://cantina.xyz/u/chitresh)
--  Uncovered **55+ High/Medium** severity bugs
+-  Uncovered **60+ High/Medium** severity bugs
 -  Secured **#2/248** in [Inclusive Competition](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) with **#4 Top-10** finishes in competitive audits overall
+-  Having been placed on leaderboards of few solana competitions that I participated in & conducting few private audits (solo & with firms) I have gained decent understanding of this stack & with that I have audited +12 solana/rust codebases. Currently working with [PashovAuditGroup](https://x.com/PashovAuditGrp), [QuillAudits](https://x.com/QuillAudits_AI) & [AdevarLabs](https://x.com/AdevarLabs)
 
 ---
 
@@ -31,7 +32,7 @@ I'm **Smart Contract Security Researcher** specializing in **Rust/Solana audits*
 | 2025.07   | [BTR.fi](https://btr.fi/)            | **5C, 2H, 1M, 8L** | Vault / Staking        | Solana / Rust      | PashovAuditGroup  | *Not public*                                                               |
 | 2025.07  | [Zync Protocol](https://zynklabs.xyz/) | **3M, 2L**        | Token transfer                | Solana / Rust      | QuillAudits           | *Not public*                                                               |
 | 2025.08   | **Undisclosed**                | **2C, 4H, 8M, 2L**        | Privacy engine                | Solana / Rust      | QuillAudits          | *Not public*                                                               |
-| 2025.08   | **Undisclosed**                | -     | -               | Solana / Rust      | AdevarLabs         | *Not public*                                                               |
+| 2025.08   | **Undisclosed**                | **5 & counting**     | Stablecoin               | Solana / Rust      | AdevarLabs         | *Not public*                                                               |
 
 ---
 
