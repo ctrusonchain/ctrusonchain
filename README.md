@@ -32,7 +32,7 @@ I'm **Smart Contract Security Researcher** specializing in **Rust/Solana audits*
 | 2025.07   | [BTR.fi](https://btr.fi/)            | **5C, 2H, 1M, 8L** | Vault / Staking        | Solana / Rust      | PashovAuditGroup  | *Not public*                                                               |
 | 2025.07  | [Zync Protocol](https://zynklabs.xyz/) | **3M, 2L**        | Token transfer                | Solana / Rust      | QuillAudits           | *Not public*                                                               |
 | 2025.08   | **Undisclosed**                | **2C, 4H, 7M, 2L**        | Privacy engine                | Solana / Rust      | QuillAudits          | *Not public*                                                               |
-| 2025.08   | **Undisclosed**                | **5M**     | Stablecoin               | Solana / Rust      | AdevarLabs         | *Not public*                                                               |
+| 2025.08   | **Undisclosed**                | **4M, 2L**     | Stablecoin               | Solana / Rust      | AdevarLabs         | *Not public*                                                               |
 
 ---
 
