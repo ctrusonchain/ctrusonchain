@@ -30,10 +30,11 @@ I'm **Smart Contract Security Researcher** specializing in **Rust/Solana audits*
 | 2025.06   | [PnP Exchange](https://pnp.exchange) | **1C, 2H, 3M, 3L** | Prediction market      | Solana / Rust      | Solo             | [Link](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/pnpreport.md) |
 | 2025.06   | [Pyro Fun](https://pyro.fun/)        | **1H, 2M, 1L**         | Token launcher         | Solana / Rust      | QuillAudits       | *Not public*                                                               |
 | 2025.07   | [BTR.fi](https://btr.fi/)            | **5C, 2H, 1M, 8L** | Vault / Staking        | Solana / Rust      | PashovAuditGroup  | *Not public*                                                               |
-| 2025.07  | [Zync Protocol](https://zynklabs.xyz/) | **3M, 2L**        | Token transfer                | Solana / Rust      | QuillAudits           | *Not public*                                                               |
+| 2025.07   | [Zync Protocol](https://zynklabs.xyz/) | **3M, 2L**        | Token transfer                | Solana / Rust      | QuillAudits           | *Not public*                                                               |
 | 2025.08   | [Encifher](https://encifher.io/)                | **2C, 4H, 7M, 2L**        | Privacy engine                | Solana / Rust      | QuillAudits          | *Not public*                                                               |
 | 2025.08   | [M0](https://www.m0.org/)                | **2M, 4L**     | Stablecoin               | Solana / Rust      | AdevarLabs         | *Not public*                                                               |
-|   2025.08     |     [Aqua](https://aquabot.io)           |       **3L**               |        Seed Event           |           Solana / Rust             |     QuillAudits             |            *Not public*                                                              |
+| 2025.08   |     [Aqua](https://aquabot.io)           |       **3L**               |        Seed Event           |           Solana / Rust             |     QuillAudits             |            *Not public*                                                              |
+| 2025.09   | **Undisclosed**           | **Ongoing** | Presale / Staking        | Solana / Rust      | PashovAuditGroup  | *Not public*                                                               |
 
 ---
 
