@@ -34,7 +34,7 @@ I'm **Smart Contract Security Researcher** specializing in **Rust/Solana audits*
 | [Encifher](https://encifher.io/)                | **2C, 4H, 7M, 2L**        | Privacy engine                | Solana / Rust      | QuillAudits          | *Not public*                                                               |
 | [M0](https://www.m0.org/)                | **2M, 4L**     | Stablecoin               | Solana / Rust      | AdevarLabs         | *Not public*                                                               |
 |     [Aqua](https://aquabot.io)           |       **3L**               |        Seed Event           |           Solana / Rust             |     QuillAudits             |            *Not public*                                                              |
-| **Undisclosed**           | **Ongoing** | Presale / Staking        | Solana / Rust      | PashovAuditGroup  | *Not public*                                                               |
+| **Thurst**           | **2C, 1H, 3M** | Presale / Staking        | Solana / Rust      | PashovAuditGroup  | *Not public*                                                               |
 
 ---
 
