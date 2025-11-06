@@ -1,5 +1,5 @@
 ## About Me 
-I'm **Smart Contract Security Researcher** specializing in **Rust/Solana audits**.  Having been placed on leaderboards of few solana competitions that I participated in & conducted few private audits (solo & with firms) I have gained decent understanding of this stack & with that I have audited +12 solana/rust codebases.
+I'm **Smart Contract Security Researcher** specializing in **Rust/Solana audits**.  Having been placed on leaderboards of few solana competitions that I participated in & conducted few private audits (solo & with firms) I have gained decent understanding of this stack & with that I have audited +20 solana/rust codebases.
 
 ---
 
@@ -7,7 +7,7 @@ I'm **Smart Contract Security Researcher** specializing in **Rust/Solana audits*
 
 -  **Reputation score of 100** on [cantina→](https://cantina.xyz/u/chitresh)
 -  Secured **#2/248** in [Inclusive Competition](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0)
--  Uncovered **60+ High/Medium** severity bugs
+-  Uncovered **80+ High/Medium** severity bugs
 -  Working with [PashovAuditGroup](https://x.com/PashovAuditGrp), [QuillAudits](https://x.com/QuillAudits_AI), [AdevarLabs](https://x.com/AdevarLabs) & [Three Sigma](https://x.com/threesigmaxyz)
 
 ---
