@@ -36,10 +36,10 @@ I'm **Smart Contract Security Researcher** specializing in **Rust/Solana audits*
 | [Aqua](https://aquabot.io) | **3L** | Seed Event | Solana / Rust | QuillAudits | *onsite* |
 | [Thurst]() | **2C, 1H, 3M, 4L** | Presale / Staking | Solana / Rust | PashovAuditGroup | *onsite* |
 | [DoubleZero](https://doublezero.xyz/) | **2M** | Distribution / Swap | Solana / Rust | AdevarLabs | *onsite* |
-| [Kamote]() | **1H, 2M, 1L** | LLST (Kamino integration) | Solana / Rust | Codespect | *onsite* |
+| [Kamote]() | **1H, 2M, 1L** | Kamino integration | Solana / Rust | Codespect | *onsite* |
 | [Pumpfun](https://pump.fun/) | NDA | NDA | Solana / Rust | PashovAuditGroup | *onsite* |
-| [Liquid Miner Token]() | **1H, 1M, 2L** | LST (Quarry integration) | Solana / Rust | Codespect | *onsite* |
-| [Alock]() | **1H, 2M, 1L** | LST (Adrena integration) | Solana / Rust | Codespect | *onsite* |
+| [Liquid Miner Token]() | **1H, 1M, 2L** | Quarry integration | Solana / Rust | Codespect | *onsite* |
+| [Alock]() | **1H, 2M, 1L** |Adrena integration | Solana / Rust | Codespect | *onsite* |
 | **Ongoing** | **Ongoing** | Perp & Spot | Solana / Rust | NDA | *Not public* |
 
 ---
