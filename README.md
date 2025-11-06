@@ -25,22 +25,22 @@ I'm **Smart Contract Security Researcher** specializing in **Rust/Solana audits*
 
 ## Private Audits
 
-|  Protocol     |  Findings           |  Description     |  Ecosystem / Language |  Provider       |  Report                                                                 |
-|----------------|----------------------|-------------------|------------------------|------------------|--------------------------------------------------------------------------|
-| [PnP Exchange](https://pnp.exchange) | **1C, 2H, 3M, 3L** | Prediction market      | Solana / Rust      | Solo             | [Link](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/pnpreport.md) |
-| [Pyro Fun](https://pyro.fun/)        | **1H, 2M, 1L**         | Token launcher         | Solana / Rust      | QuillAudits       | *onsite*                                                               |
-| [BTR.fi](https://btr.fi/)            | **5C, 2H, 1M, 8L** | Vault / Staking        | Solana / Rust      | PashovAuditGroup  | *onsite*                                                               |
-| [Zync Protocol](https://zynklabs.xyz/) | **3M, 2L**        | Token transfer                | Solana / Rust      | QuillAudits           | *onsite*                                                               |
-| [Encifher](https://encifher.io/)                | **2C, 4H, 7M, 2L**        | Privacy engine                | Solana / Rust      | QuillAudits          | *onsite*                                                               |
-| [M0](https://www.m0.org/)                | **2M, 4L**     | Stablecoin               | Solana / Rust      | AdevarLabs         | *onsite*                                                               |
-| [Aqua](https://aquabot.io)           |       **3L**               |        Seed Event           |           Solana / Rust             |     QuillAudits             |            *onsite*                                                              |
-| [Thurst]()          | **2C, 1H, 3M, 4L** | Presale / Staking        | Solana / Rust      | PashovAuditGroup  | *onsite*                                                               |
-| [DoubleZero](https://doublezero.xyz/)               | **2M**     | Distribution / Swap              | Solana / Rust      | AdevarLabs         | *onsite*                                                               |
-| [Kamote]()             | **1H, 2M, 1L**     |     LLST (Kamino integration)       | Solana / Rust      | Codespect         | *onsite*                                                               |
-| [Pumpfun](https://pump.fun/)       | NDA | NDA       | Solana / Rust      | PashovAuditGroup  | *onsite*                                                               |  
-| [Liquid Miner Token]()       | **1H, 1M, 2L** | LST (Quarry integration)    | Solana / Rust      | Codespect  | *onsite*                                                               |  
-| [Alock]()       | **1H, 2M, 1L** | LST (Adrena integration)    | Solana / Rust      | Codespect  | *onsite*                                                               | 
-| **Ongoing**     | **Ongoing** |   Perp & Spot    | Solana / Rust      | NDA  | *Not public*                                                               |
+| Protocol | Findings | Description | Ecosystem / Language | Provider | Report |
+|-----------|-----------|-------------|-----------------------|-----------|---------|
+| [PnP Exchange](https://pnp.exchange) | **1C, 2H, 3M, 3L** | Prediction market | Solana / Rust | Solo | [Link](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/pnpreport.md) |
+| [Pyro Fun](https://pyro.fun/) | **1H, 2M, 1L** | Token launcher | Solana / Rust | QuillAudits | *onsite* |
+| [BTR.fi](https://btr.fi/) | **5C, 2H, 1M, 8L** | Vault / Staking | Solana / Rust | PashovAuditGroup | *onsite* |
+| [Zync Protocol](https://zynklabs.xyz/) | **3M, 2L** | Token transfer | Solana / Rust | QuillAudits | *onsite* |
+| [Encifher](https://encifher.io/) | **2C, 4H, 7M, 2L** | Privacy engine | Solana / Rust | QuillAudits | *onsite* |
+| [M0](https://www.m0.org/) | **2M, 4L** | Stablecoin | Solana / Rust | AdevarLabs | *onsite* |
+| [Aqua](https://aquabot.io) | **3L** | Seed Event | Solana / Rust | QuillAudits | *onsite* |
+| [Thurst]() | **2C, 1H, 3M, 4L** | Presale / Staking | Solana / Rust | PashovAuditGroup | *onsite* |
+| [DoubleZero](https://doublezero.xyz/) | **2M** | Distribution / Swap | Solana / Rust | AdevarLabs | *onsite* |
+| [Kamote]() | **1H, 2M, 1L** | LLST (Kamino integration) | Solana / Rust | Codespect | *onsite* |
+| [Pumpfun](https://pump.fun/) | NDA | NDA | Solana / Rust | PashovAuditGroup | *onsite* |
+| [Liquid Miner Token]() | **1H, 1M, 2L** | LST (Quarry integration) | Solana / Rust | Codespect | *onsite* |
+| [Alock]() | **1H, 2M, 1L** | LST (Adrena integration) | Solana / Rust | Codespect | *onsite* |
+| **Ongoing** | **Ongoing** | Perp & Spot | Solana / Rust | NDA | *Not public* |
 
 ---
 
