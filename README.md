@@ -1,5 +1,5 @@
 ## About Me 
-I'm **Independent Smart Contract Security Researcher** specializing in **Rust/Solana audits**. Having been placed on leaderboards of few solana competitions that I participated in & conducted few private audits (solo & with firms) I have gained decent understanding of this stack & with that I have audited +20 solana/rust codebases.
+I'm an **Independent Smart Contract Security Researcher** specializing in **Rust/Solana audits**. Having been placed on leaderboards of few solana competitions that I participated in & conducted several private audits (solo & with firms) I have gained decent understanding of this stack & with that I have audited +20 solana/rust codebases.
 
 ---
 
@@ -9,7 +9,7 @@ I'm **Independent Smart Contract Security Researcher** specializing in **Rust/So
 -  Secured **#2/248** in [Inclusive Competition](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0)
 -  Uncovered **100+ High/Medium** severity bugs
 -  Working with [AdevarLabs](https://x.com/AdevarLabs), [Codespect
-](https://x.com/Codespect), [Cyfrin](https://x.com/Cyfrin), [QuillAudits](https://x.com/QuillAudits_AI), [PashovAuditGroup](https://x.com/PashovAuditGrp), & [Three Sigma](https://x.com/threesigmaxyz)
+](https://x.com/Codespect), [Cyfrin](https://x.com/Cyfrin), [PashovAuditGroup](https://x.com/PashovAuditGrp), [QuillAudits](https://x.com/QuillAudits_AI), & [Three Sigma](https://x.com/threesigmaxyz)
 
 ---
 
@@ -41,7 +41,7 @@ I'm **Independent Smart Contract Security Researcher** specializing in **Rust/So
 | [Pumpfun](https://pump.fun/) | NDA | NDA | Solana / Rust | PashovAuditGroup | *onsite* |
 | [Liquid Miner Token]() | **1H, 1M, 2L** | Quarry integration | Solana / Rust | Codespect | *onsite* |
 | [Alock]() | **1H, 2M, 1L** |Adrena integration | Solana / Rust | Codespect | *onsite* |
-| **Ongoing** | **Ongoing** | Perp & Spot | Solana / Rust | NDA | *Not public* |
+| **Not public** | **Not public** | Perp & Spot | Solana / Rust | Cyfrin | *Not public* |
 
 ---
 
