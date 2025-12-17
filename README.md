@@ -1,5 +1,5 @@
 ## About Me 
-I'm an **Independent Smart Contract Security Researcher** specializing in **Rust/Solana audits**. Having been placed on leaderboards of few solana competitions that I participated in & conducted several private audits (solo & with firms) I have gained decent understanding of this stack & with that I have audited +20 solana/rust codebases.
+I'm an **Independent Smart Contract Security Researcher** specializing in **Rust/Solana audits**. Having been placed on leaderboards of few solana competitions that I participated in & conducted several private audits (both solo & with firms) I have gained solid understanding of this stack. Over the past year, I’ve audited a broad range of protocols, including AMMs, vaults, stablecoins, prediction markets, perps, staking, token launchers, protocols integrating with Adrena, kamino programs etc. I'm comfortable picking up and auditing new codebases.
 
 ---
 
@@ -41,8 +41,8 @@ I'm an **Independent Smart Contract Security Researcher** specializing in **Rust
 | [Pumpfun](https://pump.fun/) | NDA | NDA | Solana / Rust | PashovAuditGroup | *onsite* |
 | [Liquid Miner Token]() | **1H, 1M, 2L** | Quarry integration | Solana / Rust | Codespect | *onsite* |
 | [Alock]() | **1H, 2M, 1L** |Adrena integration | Solana / Rust | Codespect | *onsite* |
-| **Not public** | **Not public** | Perp & Spot | Solana / Rust | Cyfrin | *Not public* |
-
+| [Deriverse]() | **6H, 10M, 2L** | Perp & Spot | Solana / Rust | Cyfrin | *onsite* |
+| **Not public** | **Not public** | Stablecoin | Solana / Rust | PashovAuditGroup | *Not public* |
 ---
 
 ## Testimonials
