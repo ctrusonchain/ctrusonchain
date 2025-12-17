@@ -1,5 +1,5 @@
 ## About Me 
-I'm an **Independent Smart Contract Security Researcher** specializing in **Rust/Solana audits**. After doing few competitions and conducting several private audits (both solo & with firms) I have gained solid understanding of this stack. 
+I'm an **Independent Smart Contract Security Researcher** specializing in **Rust/Solana audits**. 
 
 Over the past year, I’ve audited a broad range of protocols, including AMMs, vaults, stablecoins, prediction markets, perps, staking, token launchers, protocols integrating with Adrena, kamino programs etc. I'm comfortable picking up and auditing new codebases.
 
