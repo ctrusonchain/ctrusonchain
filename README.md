@@ -44,8 +44,8 @@ Over the past year, I’ve audited a broad range of protocols, including AMMs, v
 | [Liquid Miner Token]() | **1H, 1M, 2L** | Quarry integration | Solana / Rust | Codespect | *onsite* |
 | [Alock]() | **1H, 2M, 1L** |Adrena integration | Solana / Rust | Codespect | *onsite* |
 | [Deriverse]() | **6H, 10M, 2L** | Perp & Spot | Solana / Rust | Cyfrin | *onsite* |
-| [JupUsd]() | **8L** | Stablecoin | Solana / Rust | PashovAuditGroup | *onsite* |
-| [Ongoing]() | **Ongoing** | Stablecoin | Solana / Rust | PashovAuditGroup | *Not public* |
+| [JupUSD]() | **8L** | Stablecoin | Solana / Rust | PashovAuditGroup | *onsite* |
+| [PalmUSD]() | **10L** | Stablecoin | Solana / Rust | PashovAuditGroup | *onsite* |
 ---
 
 ## Testimonials
