@@ -29,14 +29,14 @@ Over the past year, I’ve audited a broad range of protocols including AMMs, va
 
 | S. No. | Protocol | Findings | Description | Ecosystem / Language | Provider | Report |
 |:-----:|-----------|-----------|-------------|-----------------------|-----------|---------|
-| 1 | [PnP Exchange](https://pnp.exchange) | **1C, 2H, 3M** | Prediction market | Solana / Rust | Solo | [🔗](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/pnpreport.md) |
+| 1 | [PnP Exchange](https://pnp.exchange) | **1C, 2H, 3M, 3L** | Prediction market | Solana / Rust | Solo | [🔗](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/pnpreport.md) |
 | 2 | [Pyro Fun](https://pyro.fun/) | **1H, 2M, 1L** | Token launcher | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) | *onsite* |
-| 3 | [BTR.fi](https://btr.fi/) | **5C, 2H, 1M** | Vault / Staking | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | *onsite* |
+| 3 | [BTR.fi](https://btr.fi/) | **5C, 2H, 1M, 8L** | Vault / Staking | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | *onsite* |
 | 4 | [Zync Protocol](https://zynklabs.xyz/) | **3M, 2L** | Token transfer | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) | *onsite* |
-| 5 | [Encifher](https://encifher.io/) | **2C, 4H, 7M** | Privacy engine | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) | *onsite* |
+| 5 | [Encifher](https://encifher.io/) | **2C, 4H, 7M, 2L** | Privacy engine | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) | *onsite* |
 | 6 | [M0](https://www.m0.org/) | **2M, 4L** | Stablecoin | Solana / Rust | [AdevarLabs](https://x.com/AdevarLabs) | *onsite* |
 | 7 | [Aqua](https://aquabot.io) | **3L** | Seed Event | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) | *onsite* |
-| 8 | [Thurst]() | **2C, 1H, 3M** | Presale / Staking | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | *onsite* |
+| 8 | [Thurst]() | **2C, 1H, 3M, 4L** | Presale / Staking | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | *onsite* |
 | 9 | [DoubleZero](https://doublezero.xyz/) | **2M** | Distribution / Swap | Solana / Rust | [AdevarLabs](https://x.com/AdevarLabs) | *onsite* |
 | 10 | [Kamote]() | **1H, 2M, 1L** | Kamino integration | Solana / Rust | [Codespect](https://x.com/Codespect) | *onsite* |
 | 11 | [Pumpfun](https://pump.fun/) | NDA | NDA | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | *onsite* |
