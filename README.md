@@ -1,7 +1,7 @@
 ## About Me 
 I'm an **Independent Smart Contract Security Researcher** specializing in **Rust/Solana audits**. 
 
-Over the past year, I’ve audited a broad range of protocols including AMMs, vaults, stablecoins, prediction markets, perps, staking, token launchers, Escrows, protocols integrating with Adrena, kamino programs etc. I'm comfortable picking up and auditing new codebases.
+Over the past year, I’ve audited a broad range of protocols including AMMs, vaults, stablecoins, prediction markets, perps, voting, staking, token launchers, escrows, protocols integrating with Adrena, kamino programs etc. I'm comfortable picking up and auditing new codebases.
 
 ---
 
@@ -46,7 +46,7 @@ Over the past year, I’ve audited a broad range of protocols including AMMs, va
 | [JupUSD](https://jupusd.money/) | **8L** | Stablecoin | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | *onsite* |
 | [PalmUSD](https://www.palmusd.com/) | **10L** | Stablecoin | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | *onsite* |
 | [fly-trade](https://www.fly.trade/) | **2M** | Cross chain swap | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) | *onsite* |
-| [Private]() | **Ongoing** | Real estate Escrow | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | *Not public* |
+| [keySol]() | **5C, 1H, 1M, 2L** | Real estate Escrow | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | *Not public* |
 
 ---
 
