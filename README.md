@@ -53,6 +53,13 @@ Over the past year, I’ve audited a broad range of protocols including AMMs, va
 
 --- 
 
+## Publications & Articles 
+
+| S. No. | Link |
+|:-----:|------|
+| 1 | [51 Solana Intricacies and Heuristics  - An auditor's guide](https://x.com/ctrusonchain/status/2018267819872498128) |
+| 2 | [7 Intresting bugs from my private engagements]() |
+
 ## Testimonials
 
 **[Pashov](https://x.com/pashovkrum) ( Founder [@PashovAuditGroup](https://x.com/PashovAuditGrp) )**
