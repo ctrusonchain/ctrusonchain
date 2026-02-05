@@ -54,13 +54,6 @@ Over the past year, I’ve audited a broad range of protocols including AMMs, va
 --- 
 
 ## Testimonials
+
 **[Pashov](https://x.com/pashovkrum) ( Founder [@PashovAuditGroup](https://x.com/PashovAuditGrp) )**
-![Pashov's Testimonial](testimonials/testimony3.png)
-
-**[Amar](https://x.com/amarfares_) ( Security Researcher )**
-**[Nirlin](https://x.com/0xnirlin) ( Security Researcher [@AdevarLabs](https://x.com/AdevarLabs) )**
-![testimonial](/testimonials/testimony2.png)
-
-**[Darpit](https://x.com/proxima424) ( Founder [@Pnp exchange](https://x.com/predictandpump) )**
-![Darpit's testimonial](/testimonials/testimony1.png)
-
+![Pashov's Testimonial](/testimonials/testimony1.png)
