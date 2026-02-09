@@ -1,7 +1,7 @@
 ## About Me 
 I'm an **Independent Smart Contract Security Researcher** specializing in **Rust/Solana audits**. 
 
-Over the past year, I’ve secured a broad range of protocols including dexes, vaults, stablecoins, prediction markets, perps, voting, staking, token launchers, escrows, real world assets, protocols integrating with Adrena, kamino programs etc. I'm comfortable picking up and auditing new codebases.
+Over the past year, I’ve audited a broad range of protocols including dexes, vaults, stablecoins, prediction markets, perps, voting, staking, token launchers, escrows, real world assets, protocols integrating with Adrena, kamino programs etc. I'm comfortable picking up and auditing new codebases.
 
 ---
 
@@ -63,6 +63,7 @@ Over the past year, I’ve secured a broad range of protocols including dexes, v
 ## Testimonials
 
 **[Pashov](https://x.com/pashovkrum) ( Founder [@PashovAuditGroup](https://x.com/PashovAuditGrp) )**
+
 ![Pashov's Testimonial](/testimonials/testimony1.png)
 
 ---
