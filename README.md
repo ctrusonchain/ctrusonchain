@@ -1,7 +1,7 @@
 ## About Me 
 I'm an **Independent Smart Contract Security Researcher** specializing in **Rust/Solana audits**. 
 
-Over the past year, I’ve audited a broad range of protocols including AMMs, vaults, stablecoins, prediction markets, perps, voting, staking, token launchers, escrows, RWAs, protocols integrating with Adrena, kamino programs etc. I'm comfortable picking up and auditing new codebases.
+Over the past year, I’ve secured a broad range of protocols including dexes, vaults, stablecoins, prediction markets, perps, voting, staking, token launchers, escrows, real world assets, protocols integrating with Adrena, kamino programs etc. I'm comfortable picking up and auditing new codebases.
 
 ---
 
@@ -49,14 +49,14 @@ Over the past year, I’ve audited a broad range of protocols including AMMs, va
 | 18 | [keySol]() | **5C, 1H, 1M, 2L** | Real estate Escrow | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) |
 | 19 | [Private]() | **Ongoing** | RWA | Solana / Rust | [Cyfrin](https://x.com/Cyfrin) |
 
-*Note: All reports are available on provider's respective github/website if client approved for it*
-
 --- 
 
 ## Publications & Articles 
 
-1. [51 Solana Intricacies and Heuristics  - An auditor's guide](https://x.com/ctrusonchain/status/2018267819872498128)
-2. [7 Intresting bugs from my private audit engagements]()
+| S. No. | Link |
+|:-----:|------|
+| 1 | [51 Solana Intricacies and Heuristics  - An auditor's guide](https://x.com/ctrusonchain/status/2018267819872498128) |
+| 2 | [7 Intresting bugs from my private engagements]() |
 
 ---
 
@@ -64,3 +64,6 @@ Over the past year, I’ve audited a broad range of protocols including AMMs, va
 
 **[Pashov](https://x.com/pashovkrum) ( Founder [@PashovAuditGroup](https://x.com/PashovAuditGrp) )**
 ![Pashov's Testimonial](/testimonials/testimony1.png)
+
+---
+*Note: All reports are available on provider's respective github/website if client approved for it.*
