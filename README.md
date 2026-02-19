@@ -21,7 +21,7 @@ Over the past year, I’ve audited a broad range of protocols including dexes, v
 | 1 | [Pump.Science](https://code4rena.com/audits/2025-01-pump-science) | **1M, 1L** | AMM | [#9/XXX](https://code4rena.com/audits/2025-01-pump-science) | Solana / Rust |
 | 2 | [Soon SVM](https://cantina.xyz/competitions/08c2b0b4-8449-4136-82a2-7074ccdfffac) | **3M(1 solo)** | Infra / Bridge programs | [#7/449](https://cantina.xyz/competitions/08c2b0b4-8449-4136-82a2-7074ccdfffac) | Solana / Rust |
 | 3 | [Reserve Protocol](https://cantina.xyz/competitions/8b94becd-54e7-41cd-88e6-caae7becc76a) | **1H, 1M** | Auction | [#5/237](https://cantina.xyz/competitions/8b94becd-54e7-41cd-88e6-caae7becc76a) | Solana / Rust |
-| 4 | [Inclusive Finance](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) | **15H(13 solo), 2M(2 solo)** | Vault, Meteora Integr. | [#2/248](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) | Solana / Rust |
+| 4 | [Inclusive Finance](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) | **15H(13 solo), 2M(2 solo)** | Vault, Meteora Integration | [#2/248](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) | Solana / Rust |
 
 ---
 
