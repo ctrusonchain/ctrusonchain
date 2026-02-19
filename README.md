@@ -1,7 +1,7 @@
 ## About Me 
 I'm an **Independent Smart Contract Security Researcher** specializing in **Rust/Solana audits**. 
 
-Over the past year, I’ve audited a broad range of protocols including dexes, vaults, stablecoins, prediction markets, perps, voting, staking, token launchers, escrows, real world assets, protocols integrating with Adrena, kamino programs etc. I'm comfortable picking up and auditing new codebases.
+Over the past year, I’ve audited a broad range of protocols including dexes, vaults, stablecoins, prediction markets, perps, voting, staking, dutch auctions, token launchers, escrows, real world assets, protocols integrating with Adrena, kamino programs and many more. I'm comfortable picking up and auditing new codebases.
 
 ---
 
@@ -19,9 +19,9 @@ Over the past year, I’ve audited a broad range of protocols including dexes, v
 | S. No. | Contest | Findings | Description | Ranking | Ecosystem / Language |
 |:-----:|-----------|-------------|----------------|------------|------------------------|
 | 1 | [Pump.Science](https://code4rena.com/audits/2025-01-pump-science) | **1M, 1L** | AMM, Launcher | [#9/XXX](https://code4rena.com/audits/2025-01-pump-science) | Solana / Rust |
-| 2 | [Soon SVM](https://cantina.xyz/competitions/08c2b0b4-8449-4136-82a2-7074ccdfffac) | **3M(1 solo)** | Infra, Bridge programs | [#7/449](https://cantina.xyz/competitions/08c2b0b4-8449-4136-82a2-7074ccdfffac) | Solana / Rust |
-| 3 | [Reserve Protocol](https://cantina.xyz/competitions/8b94becd-54e7-41cd-88e6-caae7becc76a) | **1H, 1M** | Auction | [#5/237](https://cantina.xyz/competitions/8b94becd-54e7-41cd-88e6-caae7becc76a) | Solana / Rust |
-| 4 | [Inclusive Finance](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) | **15H(13 solo), 2M(2 solo)** | Vault, Cross-chain | [#2/248](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) | Solana / Rust |
+| 2 | [Soon SVM](https://cantina.xyz/competitions/08c2b0b4-8449-4136-82a2-7074ccdfffac) | **3M(1 solo)** | Infra, Bridge programs | [#7/449](https://cantina.xyz/competitions/08c2b0b4-8449-4136-82a2-7074ccdfffac/leaderboard) | Solana / Rust |
+| 3 | [Reserve Protocol](https://cantina.xyz/competitions/8b94becd-54e7-41cd-88e6-caae7becc76a) | **1H, 1M** | Auction | [#5/237](https://cantina.xyz/competitions/8b94becd-54e7-41cd-88e6-caae7becc76a/leaderboard) | Solana / Rust |
+| 4 | [Inclusive Finance](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) | **15H(13 solo), 2M(2 solo)** | Vault, Cross-chain | [#2/248](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0/leaderboard) | Solana / Rust |
 
 ---
 
