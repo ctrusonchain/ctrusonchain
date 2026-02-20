@@ -8,8 +8,8 @@ Over the past year, I’ve audited a broad range of protocols including dexes, v
 ## Highlights
 
 -  **Reputation score of 100** on [cantina→](https://cantina.xyz/u/chitresh)
--  Secured **#2/248** in [Inclusive Competition](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0)
--  Uncovered **100+ High/Medium** severity bugs
+-  Secured **2nd Rank🥈** in [Inclusive Competition](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) with **15H/M** solos
+-  Uncovered **100+ High/Medium** severity bugs across **+20 audits**
 -  Working with [AdevarLabs](https://x.com/AdevarLabs), [Codespect](https://x.com/Codespect), [Cyfrin](https://x.com/Cyfrin), & [PashovAuditGroup](https://x.com/PashovAuditGrp) 
 
 ---
