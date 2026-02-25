@@ -10,34 +10,34 @@ Over the past year, I’ve audited a broad range of protocols including dexes, v
 -  **Reputation score of 100** on [cantina→](https://cantina.xyz/u/chitresh)
 -  Secured **2nd Rank🥈** in [Inclusive Competition](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) with **15H/M** solos
 -  Uncovered **100+ High/Medium** severity bugs across **+20 audits**
--  Working with [AdevarLabs](https://x.com/AdevarLabs), [Codespect](https://x.com/Codespect), [Cyfrin](https://x.com/Cyfrin), & [PashovAuditGroup](https://x.com/PashovAuditGrp) 
+-  Working with [AdevarLabs](https://x.com/AdevarLabs), [Codespect](https://x.com/Codespect), [Cyfrin](https://x.com/Cyfrin), [PashovAuditGroup](https://x.com/PashovAuditGrp) & [QuillAudits](https://x.com/QuillAudits_AI)
 
 ---
 
 ## Private Engagements
 
-| S. No. | Protocol | Findings | Description | Ecosystem / Language | Provider |
-|:-----:|-----------|-----------|-------------|-----------------------|-----------|
-| 1 | [PnP Exchange](https://pnp.exchange) | **1C, 2H, 3M, 3L** | Prediction market | Solana / Rust | [Solo🔗](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/pnpreport.md) |
-| 2 | [Pyro Fun](https://pyro.fun/) | **1H, 2M, 1L** | Token launcher | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) |
-| 3 | [BTR.fi](https://btr.fi/) | **5C, 2H, 1M, 8L** | Vault, Staking | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) |
-| 4 | [Zync Protocol](https://zynklabs.xyz/) | **3M, 2L** | Token transfer | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) |
-| 5 | [Encifher](https://encifher.io/) | **2C, 4H, 7M, 2L** | Privacy engine, Swap | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) |
-| 6 | [M0](https://www.m0.org/) | **2M, 4L** | Stablecoin | Solana / Rust | [AdevarLabs](https://x.com/AdevarLabs) |
-| 7 | [Aqua](https://aquabot.io) | **3L** | Seed Event | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) |
-| 8 | [fly-trade](https://www.fly.trade/) | **2M** | Cross chain swap | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) |
-| 9 | [Thurst]() | **2C, 1H, 3M, 4L** | Presale, Staking | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) |
-| 10 | [DoubleZero](https://doublezero.xyz/) | **2M** | Distribution, Swap | Solana / Rust | [AdevarLabs](https://x.com/AdevarLabs) |
-| 11 | [Kamote]() | **1H, 2M, 1L** | Kamino integration, LLST | Solana / Rust | [Codespect](https://x.com/Codespect) |
-| 12 | [Pumpfun](https://pump.fun/) | NDA | Amm, Launcher | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) |
-| 13 | [SaberDao]() | **1H, 1M, 2L** | Quarry integration | Solana / Rust | [Codespect](https://x.com/Codespect) |
-| 14 | [LGT Adrena]() | **1H, 2M, 1L** | Adrena integration, LST | Solana / Rust | [Codespect](https://x.com/Codespect) |
-| 15 | [Deriverse](https://deriverse.io/) | **6H, 10M, 2L** | Perp-Spot Dex, Voting| Solana / Rust | [Cyfrin](https://x.com/Cyfrin) |
-| 16 | [JupUSD](https://jupusd.money/) | **8L** | Stablecoin, oracles | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) |
-| 17 | [PalmUSD](https://www.palmusd.com/) | **10L** | Stablecoin | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) |
-| 18 | [keySol]() | **5C, 1H, 1M, 2L** | Real estate Escrow | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) |
-| 19 | [Private]() | **Private** | RWA, ed25519, swap| Solana / Rust | [Cyfrin](https://x.com/Cyfrin) |
-| 20 | [Private]() | **Ongoing** | Cross-chain, ed25519| Solana / Rust | [Cyfrin](https://x.com/Cyfrin) |
+| S. No. | Protocol | Findings | Description | Chain / Lang | Provider | Report |
+|:-----:|-----------|-----------|-------------|--------------|-----------|--------|
+| 1 | [PnP Exchange](https://pnp.exchange) | **1C, 2H, 3M, 3L** | Prediction market | Solana / Rust | [PnP]()| [📄](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/pnpreport.md) |
+| 2 | [M0](https://www.m0.org/) | **2M, 4L** | Stablecoin | Solana / Rust | [AdevarLabs](https://x.com/AdevarLabs) | [📄](https://github.com/AdevarLabs/audit-reports/blob/main/reports/2025-07-02_M0_MExtensions_audit_report.pdf)|
+| 3 | [DoubleZero](https://doublezero.xyz/) | **2M** | Distribution, Swap | Solana / Rust | [AdevarLabs](https://x.com/AdevarLabs) | [📄](https://github.com/AdevarLabs/audit-reports/blob/main/reports/2025-11-12_DoubleZero_Revenue_Distribution_audit_report.pdf) |
+| 4 | [Kamote]() | **1H, 2M, 1L** | Kamino integration, LLST | Solana / Rust | [Codespect](https://x.com/Codespect) | Pvt |
+| 5 | [SaberDao]() | **1H, 1M, 2L** | Quarry integration | Solana / Rust | [Codespect](https://x.com/Codespect) | Pvt |
+| 6 | [LGT Adrena]() | **1H, 2M, 1L** | Adrena integration, LST | Solana / Rust | [Codespect](https://x.com/Codespect) | [📄](https://github.com/CODESPECT-security/audit-reports/blob/main/039_CODESPECT_Votex_LGT.pdf) |
+| 7 | [Deriverse](https://deriverse.io/) | **6H, 10M, 2L** | Perp-Spot Dex, Voting | Solana / Rust | [Cyfrin](https://x.com/Cyfrin) | [📄](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-15-cyfrin-deriverse-dex-v2.0.pdf) |
+| 8 | [Private]() | **Private** | RWA, ed25519, swap | Solana / Rust | [Cyfrin](https://x.com/Cyfrin) | Pvt |
+| 9 | [Private]() | **Ongoing** | token transfer, ed25519 | Solana / Rust | [Cyfrin](https://x.com/Cyfrin) | - |
+| 10 | [BTR.fi](https://btr.fi/) | **5C, 2H, 1M, 8L** | Vault, Staking | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/BTR-security-review_2025-06-29.pdf) |
+| 11 | [Thurst]() | **2C, 1H, 3M, 4L** | Presale, Staking | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | [📄](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/Thrust-security-review_2025-09-01.pdf) |
+| 12 | [Pumpfun](https://pump.fun/) | **3L** | Amm, Launcher | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | [📄](https://github.com/pashov/audits/blob/master/team/md/Pump-security-review_2025-10-08.md) |
+| 13 | [JupUSD](https://jupusd.money/) | **8L** | Stablecoin, oracles | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | Pvt |
+| 14 | [PalmUSD](https://www.palmusd.com/) | **10L** | Stablecoin | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | [📄](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/PalmUSDRust-security-review_2025-12-26.pdf) |
+| 15 | [keySol]() | **5C, 1H, 1M, 2L** | Real estate Escrow | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | [📄](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/KeySol-security-review_2026-01-17.pdf) |
+| 16 | [Pyro Fun](https://pyro.fun/) | **1H, 2M, 1L** | Token launcher | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) | Pvt |
+| 17 | [Zync Protocol](https://zynklabs.xyz/) | **3M, 2L** | Token transfer | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/Zynk%20Labs%20Solana%20V2%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
+| 18 | [Encifher](https://encifher.io/) | **2C, 4H, 7M, 2L** | Privacy engine, Swap | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/Encifher%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
+| 19 | [Aqua](https://aquabot.io) | **3L** | Seed Event | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/Aquabot%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf) |
+| 20 | [fly-trade](https://www.fly.trade/) | **2M** | Cross chain swap | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/fly.trade%20SVM%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf) |
 
 --- 
 
