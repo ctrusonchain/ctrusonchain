@@ -16,7 +16,7 @@ Over the past year, I’ve audited a broad range of protocols including dexes, v
 
 ## Private Engagements
 
-| S. No. | Protocol | Findings | Description | Chain / Lang | Provider | Report |
+| No. | Protocol | Findings | Description | Chain / Lang | Provider | Report |
 |:-----:|-----------|-----------|-------------|--------------|-----------|--------|
 | 1 | [PnP Exchange](https://pnp.exchange) | **1C, 2H, 3M, 3L** | Prediction market | Solana / Rust | [PnP]()| [📄](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/pnpreport.md) |
 | 2 | [Pyro Fun](https://pyro.fun/) | **1H, 2M, 1L** | Token launcher | Solana / Rust | [QuillAudits](https://x.com/QuillAudits_AI) | Pvt |
@@ -37,13 +37,13 @@ Over the past year, I’ve audited a broad range of protocols including dexes, v
 | 17 | [PalmUSD](https://www.palmusd.com/) | **10L** | Stablecoin | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | [📄](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/PalmUSDRust-security-review_2025-12-26.pdf) |
 | 18 | [keySol]() | **5C, 1H, 1M, 2L** | Real estate Escrow | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | [📄](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/KeySol-security-review_2026-01-17.pdf) |
 | 19 | [Private]() | **Private** | RWA, ed25519, swap | Solana / Rust | [Cyfrin](https://x.com/Cyfrin) | Pvt |
-| 20 | [Private]() | **Ongoing** | token transfer, ed25519 | Solana / Rust | [Cyfrin](https://x.com/Cyfrin) | - |
+| 20 | [Private]() | **Private** | token transfer, ed25519 | Solana / Rust | [Cyfrin](https://x.com/Cyfrin) | - |
 
 --- 
 
 ## Public Competitions
 
-| S. No. | Contest | Findings | Description | Ranking | Ecosystem / Language |
+| No. | Contest | Findings | Description | Ranking | Ecosystem / Language |
 |:-----:|-----------|-------------|----------------|------------|------------------------|
 | 1 | [Pump.Science](https://code4rena.com/audits/2025-01-pump-science) | **1M, 1L** | AMM, Launcher | [#9/XXX](https://code4rena.com/audits/2025-01-pump-science) | Solana / Rust |
 | 2 | [Soon SVM](https://cantina.xyz/competitions/08c2b0b4-8449-4136-82a2-7074ccdfffac) | **3M(1 solo)** | Infra, Bridge programs | [#7/449](https://cantina.xyz/competitions/08c2b0b4-8449-4136-82a2-7074ccdfffac/leaderboard) | Solana / Rust |
@@ -55,7 +55,7 @@ Over the past year, I’ve audited a broad range of protocols including dexes, v
 
 ## Publications & Articles 
 
-| S. No. | Link |
+| No. | Link |
 |:-----:|------|
 | 1 | [51 Solana Intricacies and Heuristics  - An auditor's guide](https://x.com/ctrusonchain/status/2018267819872498128) |
 | 2 | [7 Intresting bugs from my private engagements]() |
