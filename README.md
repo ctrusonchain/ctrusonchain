@@ -36,8 +36,8 @@ Over the past year, I’ve audited a broad range of protocols including dexes, v
 | 16 | [JupUSD](https://jupusd.money/) | **8L** | Stablecoin, oracles | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | Pvt |
 | 17 | [PalmUSD](https://www.palmusd.com/) | **10L** | Stablecoin | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | [📄](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/PalmUSDRust-security-review_2025-12-26.pdf) |
 | 18 | [keySol]() | **5C, 1H, 1M, 2L** | Real estate Escrow | Solana / Rust | [PashovAuditGroup](https://x.com/PashovAuditGrp) | [📄](https://github.com/ctrusonchain/ctrusonchain/blob/main/reports/KeySol-security-review_2026-01-17.pdf) |
-| 19 | [Private]() | **Private** | RWA, ed25519, swap | Solana / Rust | [Cyfrin](https://x.com/Cyfrin) | Pvt |
-| 20 | [Private]() | **Private** | token transfer, ed25519 | Solana / Rust | [Cyfrin](https://x.com/Cyfrin) | - |
+| 19 | [Securitize](https://securitize.io/) | **1C, 1M, 5L** | RWA, swap | Solana / Rust | [Cyfrin](https://x.com/Cyfrin) | Pvt |
+| 20 | [Atum]() | **1M, 2L** | token transfer, ed25519 | Solana / Rust | [Cyfrin](https://x.com/Cyfrin) | Pvt |
 
 --- 
 
